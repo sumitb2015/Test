@@ -15,5 +15,6 @@ for file in dirpath.iterdir():
             new_path.mkdir()
         new_path = new_path / d
         file.rename(new_path)
+print("Hello World")
         
         
