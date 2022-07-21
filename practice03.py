@@ -21,5 +21,7 @@ print("New name not printing")
 
 answer = input("Are you thirsty ?")
 print(answer)
+print("Drink soda")
+print("Drink Pepsi")
         
         
