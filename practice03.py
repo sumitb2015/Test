@@ -18,7 +18,15 @@ for file in dirpath.iterdir():
 print("Hello World")
 print("Sumit Bandyopadhyay")
 print("New name not printing")
+<<<<<<< HEAD
 print("Burger")
 print("Pizza")
+=======
+
+answer = input("Are you thirsty ?")
+print(answer)
+print("Drink soda")
+print("Drink Pepsi")
+>>>>>>> thirsty
         
         
