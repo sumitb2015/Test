@@ -18,5 +18,8 @@ for file in dirpath.iterdir():
 print("Hello World")
 print("Sumit Bandyopadhyay")
 print("New name not printing")
+
+answer = input("Are you thirsty ?")
+print(answer)
         
         
