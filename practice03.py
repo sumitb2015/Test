@@ -17,5 +17,6 @@ for file in dirpath.iterdir():
         file.rename(new_path)
 print("Hello World")
 print("Sumit Bandyopadhyay")
+print("New name not printing")
         
         
