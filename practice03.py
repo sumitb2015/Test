@@ -18,5 +18,7 @@ for file in dirpath.iterdir():
 print("Hello World")
 print("Sumit Bandyopadhyay")
 print("New name not printing")
+print("Burger")
+print("Pizza")
         
         
